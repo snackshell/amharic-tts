@@ -1,7 +1,7 @@
 ```markdown
 
 # Amharic Text-to-Speech (TTS) Application
-
+```
 <div align="center">
   <img src="./assets/demo.png" alt="Amharic TTS Interface" width="800">
   <br>
