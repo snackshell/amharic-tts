@@ -15,8 +15,6 @@
 
 A simple web-based Text-to-Speech application focused on Amharic language support, powered by Microsoft Edge TTS.
 
-![Demo Screenshot](https://raw.githubusercontent.com/snackshell/amharic-tts/main/assets/demo-screenshot.png)
-
 ## Features ✨
 - 🗣️ Native Amharic voice support (Male & Female)
 - 🌍 Web interface with Amharic localization
