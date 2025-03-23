@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## Acknowledgments 🙏
 - Microsoft Edge TTS services
 - Gradio team for the web interface framework
-- Ethiopian AI community for Amharic language support
+- [Bana Codes](https://t.me/banacodes) community for Amharic language support
 ```
 
 Create these additional files:
