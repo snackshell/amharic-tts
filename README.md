@@ -1,5 +1,3 @@
-Here's a comprehensive README.md for your Amharic TTS project:
-
 ```markdown
 # Amharic Text-to-Speech (TTS) Application
 
