@@ -31,8 +31,15 @@ async def text_to_speech_edge(text, speaker):
         raise gr.Error(error_msg)
 
 with gr.Blocks(title="Amharic TTS") as demo:
-    gr.HTML("<center><h1>Amharic Text-to-Speech</h1></center>")
-    
+    gr.HTML("""
+    <style>
+        h1 { color: #FF007F; text-align: center; }
+        .gradio-button { background-color: #FF007F !important; color: white !important; }
+        .gradio-textbox, .gradio-dropdown { border-color: #FF007F !important; }
+    </style>
+    <center><h1>Amharic Text-to-Speech</h1></center>
+    """)
+
     with gr.Row():
         with gr.Column():
             input_text = gr.Textbox(lines=5, label="የአማርኛ ጽሑፍ", 
