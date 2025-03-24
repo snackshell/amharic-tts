@@ -16,12 +16,12 @@
 A simple web-based Text-to-Speech application focused on Amharic language support, powered by Microsoft Edge TTS.
 
 ## Features ✨
-- 🗣️ Native Amharic voice support (Male & Female)
-- 🌍 Web interface with Amharic localization
-- ⚡ Real-time speech synthesis
-- 🎧 Direct audio playback in browser
-- 🛠️ Error handling with Amharic/English messages
-- ⏱️ 30-second timeout protection
+- 🗣️ Native Amharic voice support (Male & Female).
+- 🌍 Web interface with Amharic localization.
+- ⚡ Real-time speech synthesis.
+- 🎧 Direct audio playback in browser.
+- 🛠️ Error handling with Amharic/English messages.
+- ⏱️ 30-second timeout protection.
 
 ## Supported Voices 🎶
 | Name   | Gender | Voice ID           |
