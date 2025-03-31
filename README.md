@@ -107,7 +107,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 Create these additional files:
 
-1. **requirements.txt**
-```gradio==4.13.0
+1. requirements.txt
+```
+gradio==4.13.0
 edge-tts==6.1.3
-python-dotenv==1.0.0```
+python-dotenv==1.0.0
+```
