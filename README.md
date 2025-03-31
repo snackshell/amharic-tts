@@ -105,11 +105,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - [Bana Codes](https://t.me/banacodes) community for Amharic language support
 ```
 
-Create these additional files:
-
-1. requirements.txt
-```
-gradio==4.13.0
-edge-tts==6.1.3
-python-dotenv==1.0.0
-```
