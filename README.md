@@ -103,4 +103,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - Microsoft Edge TTS services
 - Gradio team for the web interface framework
 - [Bana Codes](https://t.me/banacodes) community for Amharic language support
-```
